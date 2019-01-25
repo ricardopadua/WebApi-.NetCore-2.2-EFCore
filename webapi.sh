@@ -51,6 +51,18 @@ dotnet sln  ${solution}.sln add ${solution}.WebApi ${solution}.Domain ${solution
 cd ${solution}.WebApi
 dotnet new nugetconfig 
 dotnet add package Dapper --version 1.50.5
+cd ..
+cd ${solution}.Domain
+dotnet add package FluentValidation.AspNetCore --version 8.1.2 
+cd ..
+cd ${solution}.Infrastructure
+dotnet add package Microsoft.EntityFrameworkCore.Design --version 3.0.0-preview.18572.1
+dotnet add package Microsoft.EntityFrameworkCore.Tools --version 3.0.0-preview.18572.1 
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 2.2.1  
+cd ..
+cd ${solution}.Service
+dotnet add package FluentValidation.AspNetCore --version 8.1.2 
+cd ..
 #dotnet add package solution.Core.DotNetCore.ConexaoDB -s http://nuget.birdcode.io/
 
 ## visual code initialize
