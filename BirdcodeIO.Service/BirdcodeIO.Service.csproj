@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\BirdcodeIO.Domain\BirdcodeIO.Domain.csproj" />
+    <ProjectReference Include="..\BirdcodeIO.Infrastructure\BirdcodeIO.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

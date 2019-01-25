@@ -1,0 +1,9 @@
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Domain\bin\Debug\netstandard2.0\BirdcodeIO.Domain.deps.json
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Domain\bin\Debug\netstandard2.0\BirdcodeIO.Domain.dll
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Domain\obj\Debug\netstandard2.0\BirdcodeIO.Domain.csprojAssemblyReference.cache
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Domain\obj\Debug\netstandard2.0\BirdcodeIO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Domain\obj\Debug\netstandard2.0\BirdcodeIO.Domain.AssemblyInfoInputs.cache
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Domain\obj\Debug\netstandard2.0\BirdcodeIO.Domain.AssemblyInfo.cs
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Domain\bin\Debug\netstandard2.0\BirdcodeIO.Domain.pdb
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Domain\obj\Debug\netstandard2.0\BirdcodeIO.Domain.dll
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Domain\obj\Debug\netstandard2.0\BirdcodeIO.Domain.pdb

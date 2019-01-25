@@ -1,0 +1,4 @@
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Service\obj\Debug\netstandard2.0\BirdcodeIO.Service.csprojAssemblyReference.cache
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Service\obj\Debug\netstandard2.0\BirdcodeIO.Service.csproj.CoreCompileInputs.cache
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Service\obj\Debug\netstandard2.0\BirdcodeIO.Service.AssemblyInfoInputs.cache
+C:\Users\Pádua\Desktop\Nova pasta\Backend\BirdcodeIO.Service\obj\Debug\netstandard2.0\BirdcodeIO.Service.AssemblyInfo.cs
